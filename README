@@ -1,0 +1,1 @@
+The purpose of writing this library is to provide a flexible and powerful way to filter unwanted tags from the HTML content. It is written using JSoup library. For more information on how to use this library, please refer to the test case.
